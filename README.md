@@ -224,7 +224,7 @@ Tasks
 
 The application was launched with the DNS:
 
-![Images](Images/App_Launched.png)
+<img width="800" alt="Screenshot 2023-11-12 at 11 30 36 PM" src="https://github.com/Jmo-101/Containerized_Bankapp/assets/138607757/703c6b44-b2e8-4bd8-96b6-54206a7e8a73">
 
 ## Issue(s)/Debugging/Resolution
 
